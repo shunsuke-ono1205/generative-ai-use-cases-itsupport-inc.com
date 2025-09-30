@@ -36,7 +36,7 @@
     "rerankingModelId": null,
     "queryDecompositionEnabled": false,
     "selfSignUpEnabled": true,
-    "allowedSignUpEmailDomains": ["dh-its.co.jp", "itsupport-inc.com"],
+    "allowedSignUpEmailDomains": [],
     "samlAuthEnabled": false,
     "samlCognitoDomainName": "",
     "samlCognitoFederatedIdentityProviderName": "",
